@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azure_CICD", "Azure_CICD\Azure_CICD.csproj", "{82D1B1B5-74BF-4C68-A433-4AF907726136}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82D1B1B5-74BF-4C68-A433-4AF907726136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82D1B1B5-74BF-4C68-A433-4AF907726136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82D1B1B5-74BF-4C68-A433-4AF907726136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82D1B1B5-74BF-4C68-A433-4AF907726136}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61BA860F-193F-455D-ABE5-6F5B797A0FEF}
+	EndGlobalSection
+EndGlobal
